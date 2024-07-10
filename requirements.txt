@@ -4,3 +4,4 @@ pytest-flake8
 flake8
 tox
 pytest-xdist
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
